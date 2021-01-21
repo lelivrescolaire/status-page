@@ -11,18 +11,23 @@ sites:
   - name: LLS API
     slug: lls-backend-nodejs
     url: $LLS_API_URL
+    __dangerous__insecure: true
   - name: Afterclasse
     slug: afterclasse-front
     url: https://www.afterclasse.fr
+    __dangerous__insecure: true
   - name: Afterclasse API
     slug: oklm-nodejs
     url: $AC_API_URL
+    __dangerous__insecure: true
   - name: LLS Preprod
     slug: lls-front-dev
     url: $LLS_PREPROD_URL
+    __dangerous__insecure: true
   - name: LLS Preprod API
     slug: api-dev
     url: $LLS_PREPROD_API_URL
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
