@@ -15,27 +15,27 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 # Add your sites here
 sites:
-  - name: Lelivrescolaire
+  - name: lls-front
     slug: lls-front
     url: https://www.lelivrescolaire.fr
     __dangerous__insecure: true
-  - name: LLS API
+  - name: lls-backend-nodejs
     slug: lls-backend-nodejs
     url: $LLS_API_URL
     __dangerous__insecure: true
-  - name: Afterclasse
+  - name: afterclasse-front
     slug: afterclasse-front
     url: https://www.afterclasse.fr
     __dangerous__insecure: true
-  - name: Afterclasse API
+  - name: oklm-nodejs
     slug: oklm-nodejs
     url: $AC_API_URL
     __dangerous__insecure: true
-  - name: LLS Preprod
+  - name: lls-front-dev
     slug: lls-front-dev
     url: $LLS_PREPROD_URL
     __dangerous__insecure: true
-  - name: LLS Preprod API
+  - name: api-dev
     slug: api-dev
     url: $LLS_PREPROD_API_URL
     __dangerous__insecure: true
