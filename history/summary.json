@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.lelivrescolaire.fr",
     "slug": "lls-front",
     "status": "up",
-    "uptime": "51.11%",
-    "uptimeDay": "51.11%",
-    "uptimeWeek": "51.11%",
-    "uptimeMonth": "51.11%",
-    "uptimeYear": "51.11%",
-    "time": 101,
-    "timeDay": 101,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 101,
-    "dailyMinutesDown": {
-      "2021-01-21": 2
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 99,
+    "timeDay": 99,
+    "timeWeek": 99,
+    "timeMonth": 99,
+    "timeYear": 99,
+    "dailyMinutesDown": {}
   },
   {
     "name": "LLS API",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lls-backend-nodejs",
     "status": "up",
-    "uptime": "11.47%",
-    "uptimeDay": "11.47%",
-    "uptimeWeek": "11.47%",
-    "uptimeMonth": "11.47%",
-    "uptimeYear": "11.47%",
-    "time": 19,
-    "timeDay": 19,
-    "timeWeek": 19,
-    "timeMonth": 19,
-    "timeYear": 19,
-    "dailyMinutesDown": {
-      "2021-01-21": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 25,
+    "timeDay": 25,
+    "timeWeek": 25,
+    "timeMonth": 25,
+    "timeYear": 25,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Afterclasse",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/www.afterclasse.fr",
     "slug": "afterclasse-front",
     "status": "up",
-    "uptime": "10.94%",
-    "uptimeDay": "10.94%",
-    "uptimeWeek": "10.94%",
-    "uptimeMonth": "10.94%",
-    "uptimeYear": "10.94%",
-    "time": 277,
-    "timeDay": 277,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
-    "dailyMinutesDown": {
-      "2021-01-21": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 402,
+    "timeDay": 402,
+    "timeWeek": 402,
+    "timeMonth": 402,
+    "timeYear": 402,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Afterclasse API",
@@ -65,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "oklm-nodejs",
     "status": "up",
-    "uptime": "10.42%",
-    "uptimeDay": "10.42%",
-    "uptimeWeek": "10.42%",
-    "uptimeMonth": "10.42%",
-    "uptimeYear": "10.42%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
-    "dailyMinutesDown": {
-      "2021-01-21": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 78,
+    "timeDay": 78,
+    "timeWeek": 78,
+    "timeMonth": 78,
+    "timeYear": 78,
+    "dailyMinutesDown": {}
   },
   {
     "name": "LLS Preprod",
@@ -85,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lls-front-dev",
     "status": "up",
-    "uptime": "9.95%",
-    "uptimeDay": "9.95%",
-    "uptimeWeek": "9.95%",
-    "uptimeMonth": "9.95%",
-    "uptimeYear": "9.95%",
-    "time": 258,
-    "timeDay": 258,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
-    "dailyMinutesDown": {
-      "2021-01-21": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 293,
+    "timeDay": 293,
+    "timeWeek": 293,
+    "timeMonth": 293,
+    "timeYear": 293,
+    "dailyMinutesDown": {}
   },
   {
     "name": "LLS Preprod API",
@@ -105,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-dev",
     "status": "up",
-    "uptime": "8.99%",
-    "uptimeDay": "8.99%",
-    "uptimeWeek": "8.99%",
-    "uptimeMonth": "8.99%",
-    "uptimeYear": "8.99%",
-    "time": 17,
-    "timeDay": 17,
-    "timeWeek": 17,
-    "timeMonth": 17,
-    "timeYear": 17,
-    "dailyMinutesDown": {
-      "2021-01-21": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 23,
+    "timeDay": 23,
+    "timeWeek": 23,
+    "timeMonth": 23,
+    "timeYear": 23,
+    "dailyMinutesDown": {}
   }
 ]
