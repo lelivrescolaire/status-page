@@ -5,16 +5,22 @@ repo: status-page # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Lelivrescolaire
+    slug: lls-front
     url: https://www.lelivrescolaire.fr
   - name: LLS API
+    slug: lls-backend-nodejs
     url: $LLS_API_URL
   - name: Afterclasse
+    slug: afterclasse-front
     url: https://www.afterclasse.fr
   - name: Afterclasse API
+    slug: oklm-nodejs
     url: $AC_API_URL
   - name: LLS Preprod
+    slug: lls-front-dev
     url: $LLS_PREPROD_URL
   - name: LLS Preprod API
+    slug: api-dev
     url: $LLS_PREPROD_API_URL
 
 status-website:
