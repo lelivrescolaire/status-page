@@ -4,19 +4,19 @@
     "url": "https://www.lelivrescolaire.fr",
     "icon": "https://favicons.githubusercontent.com/www.lelivrescolaire.fr",
     "slug": "lls-front",
-    "status": "down",
-    "uptime": "3.56%",
-    "uptimeDay": "3.56%",
-    "uptimeWeek": "3.56%",
-    "uptimeMonth": "3.56%",
-    "uptimeYear": "3.56%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "5.27%",
+    "uptimeDay": "5.27%",
+    "uptimeWeek": "5.27%",
+    "uptimeMonth": "5.27%",
+    "uptimeYear": "5.27%",
+    "time": 104,
+    "timeDay": 104,
+    "timeWeek": 104,
+    "timeMonth": 104,
+    "timeYear": 104,
     "dailyMinutesDown": {
-      "2021-01-21": 0
+      "2021-01-21": 2
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lls-backend-nodejs",
     "status": "down",
-    "uptime": "2.14%",
-    "uptimeDay": "2.14%",
-    "uptimeWeek": "2.14%",
-    "uptimeMonth": "2.14%",
-    "uptimeYear": "2.14%",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 0
+      "2021-01-21": 2
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/www.afterclasse.fr",
     "slug": "afterclasse-front",
     "status": "down",
-    "uptime": "4.27%",
-    "uptimeDay": "4.27%",
-    "uptimeWeek": "4.27%",
-    "uptimeMonth": "4.27%",
-    "uptimeYear": "4.27%",
+    "uptime": "0.85%",
+    "uptimeDay": "0.85%",
+    "uptimeWeek": "0.85%",
+    "uptimeMonth": "0.85%",
+    "uptimeYear": "0.85%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 0
+      "2021-01-21": 2
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "oklm-nodejs",
     "status": "down",
-    "uptime": "2.45%",
-    "uptimeDay": "2.45%",
-    "uptimeWeek": "2.45%",
-    "uptimeMonth": "2.45%",
-    "uptimeYear": "2.45%",
+    "uptime": "0.50%",
+    "uptimeDay": "0.50%",
+    "uptimeWeek": "0.50%",
+    "uptimeMonth": "0.50%",
+    "uptimeYear": "0.50%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 0
+      "2021-01-21": 2
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lls-front-dev",
     "status": "down",
-    "uptime": "4.94%",
-    "uptimeDay": "4.94%",
-    "uptimeWeek": "4.94%",
-    "uptimeMonth": "4.94%",
-    "uptimeYear": "4.94%",
+    "uptime": "0.93%",
+    "uptimeDay": "0.93%",
+    "uptimeWeek": "0.93%",
+    "uptimeMonth": "0.93%",
+    "uptimeYear": "0.93%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 0
+      "2021-01-21": 2
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-dev",
     "status": "down",
-    "uptime": "4.26%",
-    "uptimeDay": "4.26%",
-    "uptimeWeek": "4.26%",
-    "uptimeMonth": "4.26%",
-    "uptimeYear": "4.26%",
+    "uptime": "0.52%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "0.52%",
+    "uptimeMonth": "0.52%",
+    "uptimeYear": "0.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 0
+      "2021-01-21": 2
     }
   }
 ]
