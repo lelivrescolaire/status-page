@@ -7,6 +7,7 @@ sites:
   - name: Lelivrescolaire
     slug: lls-front
     url: https://www.lelivrescolaire.fr
+    __dangerous__insecure: true
   - name: LLS API
     slug: lls-backend-nodejs
     url: $LLS_API_URL
