@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 135,
     "timeDay": 107,
-    "timeWeek": 99,
+    "timeWeek": 100,
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 28,
     "timeDay": 24,
-    "timeWeek": 22,
+    "timeWeek": 23,
     "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 235,
     "timeDay": 180,
-    "timeWeek": 229,
+    "timeWeek": 234,
     "timeMonth": 235,
     "timeYear": 235,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 45,
     "timeDay": 29,
-    "timeWeek": 38,
+    "timeWeek": 41,
     "timeMonth": 45,
     "timeYear": 45,
     "dailyMinutesDown": {}
@@ -76,18 +76,19 @@
     "url": "$LLS_PREPROD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lls-front-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 232,
-    "timeDay": 218,
-    "timeWeek": 223,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "time": 222,
+    "timeDay": 130,
+    "timeWeek": 199,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {
+      "2021-02-01": 0,
       "2021-01-21": 14
     }
   },
@@ -104,7 +105,7 @@
     "uptimeYear": "100.00%",
     "time": 19,
     "timeDay": 22,
-    "timeWeek": 20,
+    "timeWeek": 19,
     "timeMonth": 19,
     "timeYear": 19,
     "dailyMinutesDown": {}
