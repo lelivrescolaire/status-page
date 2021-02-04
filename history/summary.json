@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 117,
-    "timeWeek": 100,
-    "timeMonth": 133,
-    "timeYear": 133,
+    "time": 132,
+    "timeDay": 119,
+    "timeWeek": 103,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 28,
-    "timeDay": 19,
+    "time": 27,
+    "timeDay": 18,
     "timeWeek": 24,
-    "timeMonth": 28,
-    "timeYear": 28,
+    "timeMonth": 27,
+    "timeYear": 27,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 193,
-    "timeWeek": 228,
+    "timeDay": 231,
+    "timeWeek": 237,
     "timeMonth": 231,
     "timeYear": 231,
     "dailyMinutesDown": {}
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 43,
-    "timeDay": 13,
-    "timeWeek": 39,
+    "timeDay": 33,
+    "timeWeek": 41,
     "timeMonth": 43,
     "timeYear": 43,
     "dailyMinutesDown": {}
@@ -83,8 +83,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 231,
-    "timeDay": 241,
-    "timeWeek": 223,
+    "timeDay": 245,
+    "timeWeek": 225,
     "timeMonth": 231,
     "timeYear": 231,
     "dailyMinutesDown": {
@@ -97,18 +97,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-dev",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 20,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 19,
     "timeDay": 22,
-    "timeWeek": 19,
-    "timeMonth": 20,
-    "timeYear": 20,
-    "dailyMinutesDown": {
-      "2021-02-03": 6
-    }
+    "timeWeek": 18,
+    "timeMonth": 19,
+    "timeYear": 19,
+    "dailyMinutesDown": {}
   }
 ]
