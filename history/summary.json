@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 88,
-    "timeWeek": 118,
-    "timeMonth": 104,
-    "timeYear": 114,
+    "time": 115,
+    "timeDay": 176,
+    "timeWeek": 129,
+    "timeMonth": 108,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
-    "timeDay": 29,
-    "timeWeek": 33,
+    "timeDay": 23,
+    "timeWeek": 26,
     "timeMonth": 26,
     "timeYear": 25,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 237,
-    "timeWeek": 212,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "time": 223,
+    "timeDay": 365,
+    "timeWeek": 237,
+    "timeMonth": 228,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 35,
-    "timeDay": 25,
-    "timeWeek": 49,
-    "timeMonth": 33,
-    "timeYear": 35,
+    "time": 37,
+    "timeDay": 119,
+    "timeWeek": 48,
+    "timeMonth": 37,
+    "timeYear": 37,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.82%",
-    "time": 227,
-    "timeDay": 228,
-    "timeWeek": 234,
-    "timeMonth": 224,
-    "timeYear": 227,
+    "time": 228,
+    "timeDay": 280,
+    "timeWeek": 239,
+    "timeMonth": 226,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2021-03-16": 149,
       "2021-01-21": 14
@@ -99,8 +99,8 @@
     "slug": "api-dev",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 17,
@@ -108,8 +108,6 @@
     "timeWeek": 18,
     "timeMonth": 16,
     "timeYear": 17,
-    "dailyMinutesDown": {
-      "2021-03-26": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
