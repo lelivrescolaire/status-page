@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 98,
+    "timeDay": 101,
     "timeWeek": 122,
     "timeMonth": 106,
     "timeYear": 114,
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 25,
     "timeDay": 15,
-    "timeWeek": 21,
-    "timeMonth": 25,
+    "timeWeek": 20,
+    "timeMonth": 24,
     "timeYear": 25,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 198,
+    "timeDay": 190,
     "timeWeek": 237,
-    "timeMonth": 227,
+    "timeMonth": 226,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 17,
+    "timeDay": 18,
     "timeWeek": 37,
-    "timeMonth": 36,
+    "timeMonth": 35,
     "timeYear": 36,
     "dailyMinutesDown": {}
   },
@@ -83,8 +83,8 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.83%",
     "time": 227,
-    "timeDay": 213,
-    "timeWeek": 223,
+    "timeDay": 225,
+    "timeWeek": 225,
     "timeMonth": 224,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -99,17 +99,15 @@
     "slug": "api-dev",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 17,
-    "timeDay": 14,
-    "timeWeek": 15,
+    "timeDay": 15,
+    "timeWeek": 14,
     "timeMonth": 16,
     "timeYear": 17,
-    "dailyMinutesDown": {
-      "2021-03-30": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
