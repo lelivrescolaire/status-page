@@ -1,7 +1,7 @@
 url: $LLS_PREPROD_URL
-status: down
-code: 503
-responseTime: 51
-lastUpdated: 2021-04-02T14:56:15.988Z
+status: up
+code: 200
+responseTime: 415
+lastUpdated: 2021-04-02T15:00:17.626Z
 startTime: Thu Jan 21 2021 13:52:24 GMT+0000 (GMT)
 generator: Upptime <https://github.com/upptime/upptime>
