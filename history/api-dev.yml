@@ -1,7 +1,7 @@
 url: $LLS_PREPROD_API_URL
-status: down
-code: 502
-responseTime: 23
-lastUpdated: 2021-05-18T09:48:16.355Z
+status: up
+code: 200
+responseTime: 24
+lastUpdated: 2021-05-18T09:50:17.694Z
 startTime: Thu Jan 21 2021 13:52:27 GMT+0000 (GMT)
 generator: Upptime <https://github.com/upptime/upptime>
