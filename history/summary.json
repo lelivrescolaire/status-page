@@ -84,7 +84,7 @@
     "uptimeYear": "99.87%",
     "time": 226,
     "timeDay": 199,
-    "timeWeek": 198,
+    "timeWeek": 203,
     "timeMonth": 206,
     "timeYear": 226,
     "dailyMinutesDown": {
@@ -98,9 +98,9 @@
     "url": "$LLS_PREPROD_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -110,6 +110,7 @@
     "timeMonth": 16,
     "timeYear": 18,
     "dailyMinutesDown": {
+      "2021-07-02": 0,
       "2021-04-08": 40
     }
   }
