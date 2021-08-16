@@ -1,7 +1,7 @@
 url: $AC_API_URL
-status: down
-code: 502
-responseTime: 76
-lastUpdated: 2021-08-11T01:39:15.978Z
+status: up
+code: 200
+responseTime: 86
+lastUpdated: 2021-08-16T10:32:36.828Z
 startTime: Thu Jan 21 2021 14:52:21 GMT+0100 (GMT+01:00)
 generator: Upptime <https://github.com/upptime/upptime>
