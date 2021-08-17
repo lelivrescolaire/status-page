@@ -104,11 +104,11 @@
     "url": "$LLS_PREPROD_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 25,
     "timeDay": 48,
@@ -116,7 +116,7 @@
     "timeMonth": 40,
     "timeYear": 25,
     "dailyMinutesDown": {
-      "2021-08-17": 16,
+      "2021-08-17": 30,
       "2021-07-28": 34,
       "2021-04-08": 40
     }
